@@ -7,5 +7,5 @@ g++ -o main main.cpp -lgmpxx -lgmp
 ```
 Run:
 ```
-./main
+./main 10
 ```
